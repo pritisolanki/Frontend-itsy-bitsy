@@ -1,4 +1,4 @@
-# CSS-quiz-questions
+# CSS-Itsy-Bitsy
 Collection of twisty CSS 
 
 ## CSS Tools
