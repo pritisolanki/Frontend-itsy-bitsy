@@ -10,3 +10,9 @@ Free visual guide to CSS.<br/>
 
 [ Modernizr ](https://modernizr.com/)
 Modernizr tells you what HTML, CSS and JavaScript features the user’s browser has to offer.
+
+
+## Website Design
+
+[ Color Palette ](https://www.colorhub.app/select-palette)
+Find the perfect color palette for your next project.
