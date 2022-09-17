@@ -1,4 +1,4 @@
-# CSS-Itsy-Bitsy
+# Website-Itsy-Bitsy
 Collection of twisty CSS 
 
 ## CSS Tools
