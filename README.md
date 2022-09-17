@@ -16,3 +16,10 @@ Modernizr tells you what HTML, CSS and JavaScript features the user’s browser 
 
 [ Color Palette ](https://www.colorhub.app/select-palette)
 Find the perfect color palette for your next project.
+
+## Technical Badges, Icon etc
+[Devicon](https://devicon.dev/)
+Devicon is a set of icons representing programming languages, designing, and development tools. You can use it as a font or directly copy/paste the SVG code into your project.
+
+[Shields](https://shields.io/)
+github customize badges
