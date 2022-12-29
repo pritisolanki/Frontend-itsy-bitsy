@@ -17,6 +17,9 @@ Modernizr tells you what HTML, CSS and JavaScript features the user’s browser 
 [ Color Palette ](https://www.colorhub.app/select-palette)
 Find the perfect color palette for your next project.
 
+[ Alphredo ](https://alphredo.app/)
+Transparent equivalent of a color on top of a background.
+
 [Designstripe](https://designstripe.com/)
 Free illustration and mock up for quick start 
 
