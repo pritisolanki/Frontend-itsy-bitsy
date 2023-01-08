@@ -26,6 +26,9 @@ Free illustration and mock up for quick start
 [Contrast Checker - Accessibility](https://userway.org/contrast)
 Test your color scheme
 
+[Coolors](https://coolors.co/)
+Pick trending color schema
+
 ## Technical Badges, Icon etc
 [Devicon](https://devicon.dev/)
 Devicon is a set of icons representing programming languages, designing, and development tools. You can use it as a font or directly copy/paste the SVG code into your project.
