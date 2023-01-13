@@ -29,6 +29,15 @@ Test your color scheme
 [Coolors](https://coolors.co/)
 Pick trending color schema
 
+[Animation](https://animista.net/)
+Animation CSS
+
+[Wave CSS Generator](https://getwaves.io/)
+CSS generator for Wave
+
+[Neumorphism](https://neumorphism.io/#e8dede)
+Soft corner CSS generator
+
 ## Technical Badges, Icon etc
 [Devicon](https://devicon.dev/)
 Devicon is a set of icons representing programming languages, designing, and development tools. You can use it as a font or directly copy/paste the SVG code into your project.
