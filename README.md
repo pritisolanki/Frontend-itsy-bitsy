@@ -38,6 +38,12 @@ CSS generator for Wave
 [Neumorphism](https://neumorphism.io/#e8dede)
 Soft corner CSS generator
 
+Web Background(https://coolbackgrounds.io/)
+Website background colors
+
+Web background - gradient(https://gradienta.io/)
+Lightweight, colorful, responsive backgrounds for personal and commercial projects. 
+
 ## Technical Badges, Icon etc
 [Devicon](https://devicon.dev/)
 Devicon is a set of icons representing programming languages, designing, and development tools. You can use it as a font or directly copy/paste the SVG code into your project.
